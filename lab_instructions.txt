@@ -2,10 +2,12 @@ Creating Links
 
 For this hw you’ll work on the sample Comp 484  site to create page navigation, link to external sites, and use fragment identifiers to link to sections within a site.
 
+//
 1.	Build page navigation
 			a.	Applies to: all pages
 			b.	Using document-relative links, enhance the list at the top of the document so that it links to the appropriate pages in the reference site. Be sure to add meaningful descriptions to each link.
 
+//
 2.	Link to external sites
 			a.	Applies to: links.htm 
 			b.	In the footer, locate the first reference to CSUN
@@ -15,6 +17,7 @@ For this hw you’ll work on the sample Comp 484  site to create page navigation
 			f. Browse to Twitter and find the profile page for @csunorthridge, copy this URL
 			g. Back in the footer, add a link to new text that says "follow us on Twitter" that links to the @csunorthridge profile
 
+ 
 3.	Link to internal sections
 			a.	Applies to: reference.htm, syntax.htm
 			b.	In the reference.htm page, find the text in the first paragraph that refers to the table of named character entities
